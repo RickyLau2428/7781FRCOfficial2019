@@ -7,3 +7,5 @@ The official code for team 7781
 ### Version 1.1 (Latest)
 - added on off switch
 
+### Version 1.2 
+- yeet
